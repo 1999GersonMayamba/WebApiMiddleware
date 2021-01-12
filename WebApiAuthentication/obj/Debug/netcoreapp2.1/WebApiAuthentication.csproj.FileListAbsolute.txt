@@ -1,0 +1,28 @@
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\bin\Debug\netcoreapp2.1\WebApiAuthentication.deps.json
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\bin\Debug\netcoreapp2.1\WebApiAuthentication.runtimeconfig.json
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\bin\Debug\netcoreapp2.1\WebApiAuthentication.runtimeconfig.dev.json
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\bin\Debug\netcoreapp2.1\WebApiAuthentication.dll
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\bin\Debug\netcoreapp2.1\WebApiAuthentication.pdb
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.csprojAssemblyReference.cache
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.csproj.CoreCompileInputs.cache
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.RazorAssemblyInfo.cache
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.RazorAssemblyInfo.cs
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.AssemblyInfoInputs.cache
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.AssemblyInfo.cs
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.RazorTargetAssemblyInfo.cache
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.dll
+C:\Projectos Visual Studio 2017\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.pdb
+G:\WebApiAuthentication\WebApiAuthentication\bin\Debug\netcoreapp2.1\WebApiAuthentication.deps.json
+G:\WebApiAuthentication\WebApiAuthentication\bin\Debug\netcoreapp2.1\WebApiAuthentication.runtimeconfig.json
+G:\WebApiAuthentication\WebApiAuthentication\bin\Debug\netcoreapp2.1\WebApiAuthentication.runtimeconfig.dev.json
+G:\WebApiAuthentication\WebApiAuthentication\bin\Debug\netcoreapp2.1\WebApiAuthentication.dll
+G:\WebApiAuthentication\WebApiAuthentication\bin\Debug\netcoreapp2.1\WebApiAuthentication.pdb
+G:\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.csprojAssemblyReference.cache
+G:\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.csproj.CoreCompileInputs.cache
+G:\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.RazorAssemblyInfo.cache
+G:\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.RazorAssemblyInfo.cs
+G:\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.AssemblyInfoInputs.cache
+G:\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.AssemblyInfo.cs
+G:\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.RazorTargetAssemblyInfo.cache
+G:\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.dll
+G:\WebApiAuthentication\WebApiAuthentication\obj\Debug\netcoreapp2.1\WebApiAuthentication.pdb
